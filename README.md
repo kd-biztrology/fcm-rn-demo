@@ -25,7 +25,7 @@ Bundle ID : **org.reactjs.native.example.demoFCM**
 Clone repo and install all dependencies
 
 ```
-$ git clone https://github.com/up2code/demo-rn-fcm.git
+$ git@github.com:avalond/fcm-rn-demo.git
 $ cd demo-rn-fcm
 $ npm install
 ```
