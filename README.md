@@ -1,5 +1,4 @@
 # demo-rn-fcm 
-*(iOS WIP)*
 
 Demo React Native working with [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) 
 
